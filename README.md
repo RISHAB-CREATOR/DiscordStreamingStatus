@@ -5,9 +5,13 @@ Welcome to Discord Streaming Status, a simple tool to enhance your Discord prese
 ## Features ✨
 
 ✅ **Custom Streaming Status:** Set a custom status message to display the game you're currently streaming.
+
 ✅ **Automatic Updates:** Discord Streaming Status automatically updates your status based on your streaming activity without manual intervention.
+
 ✅ **Ease of Use:** Simple and intuitive interface makes it easy to configure and use Discord Streaming Status.
+
 ✅ **Compatibility:** Works seamlessly with Discord's rich presence feature to provide real-time streaming status updates.
+
 ✅ **Privacy Settings:** Choose to display or hide streaming status information based on your privacy preferences.
 
 ## Technologies Used 💻
