@@ -14,7 +14,7 @@ client.on("ready", () => {
     .then(image => {
         let presence = new rpcGenerator.Rpc()
         .setName("twitch")
-        .setUrl("https://twitch.tv/SealedSaucer")
+        .setUrl("https://twitch.tv/CHANGETHIS")
         .setType("STREAMING")
         .setApplicationId("CLIENT_ID")
         .setAssetsLargeImage(image.id)
